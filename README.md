@@ -25,9 +25,7 @@ This repository contains Python code for building a decision tree using informat
 
     The `recurisve_decision_tree` function constructs a decision tree by recursively splitting based on information gain. It displays each split node and its corresponding information gain, as well as the resulting child nodes.
 
-## Dataset
 
-The provided dataset is extracted from lecture slides and includes attributes such as `Outlook`, `Temperature`, `Humidity`, `Wind`, and the target variable `Class`.
 ## Dataset
 
 The provided dataset is extracted from lecture slides and includes the following attributes:
